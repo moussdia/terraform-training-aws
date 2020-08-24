@@ -1,0 +1,1 @@
+PUBLIC IP: 54.243.210.150 ; ID: i-03b500021d0d16ee3 ; AZ: us-east-1e ; 
